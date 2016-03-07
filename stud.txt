@@ -1,0 +1,3 @@
+[ { "Age": "18", "Name": "Petrov", "Course": "AT-13" },
+{ "Age": "32", "Name": "Maxumiv", "Course": "AT-13" },
+{ "Age": "22", "Name": "Antonov", "Course": "AT-13" }]
