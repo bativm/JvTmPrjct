@@ -17,7 +17,7 @@ public class TeamWork {
 	public static void main(String[] args) throws FileNotFoundException, JSONException {
 
 		@SuppressWarnings("resource")
-		String jsonArrStr = new Scanner(new File("stud.txt")).useDelimiter("\\Z").next();
+		String jsonArrStr = new Scanner(new File("studentsList.txt")).useDelimiter("\\Z").next();
 
 		JSONArray jsonArr = new JSONArray(jsonArrStr);
 		JSONArray sortedJsonArray = new JSONArray();
