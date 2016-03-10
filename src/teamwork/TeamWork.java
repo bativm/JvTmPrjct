@@ -12,6 +12,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+//class for parsing textfile
 public class TeamWork {
 
 	public static void main(String[] args) throws FileNotFoundException, JSONException {
